@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple task management application consisting of a frontend and a backend server. The frontend is built using Vite and React, while the backend serves as the database for the application using local-server package. This is to practice the basics of **React Query**
+This is a simple task management application consisting of a frontend and a backend server. The frontend is built using Vite and React, while the backend serves as the database for the application using local-server package. This is to practice the basics of **React Query**.
 
 ## Setup Instructions
 
